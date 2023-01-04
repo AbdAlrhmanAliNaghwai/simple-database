@@ -1,0 +1,64 @@
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\database.exe
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\database.deps.json
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\database.runtimeconfig.json
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\database.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\database.pdb
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\database.csproj.AssemblyReference.cache
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\database.Form1.resources
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\database.csproj.GenerateResource.cache
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\database.GeneratedMSBuildEditorConfig.editorconfig
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\database.AssemblyInfoInputs.cache
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\database.AssemblyInfo.cs
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\database.csproj.CoreCompileInputs.cache
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\database.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\refint\database.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\database.pdb
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\database.genruntimeconfig.cache
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\ref\database.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\iu\برمجه المرئيه\visual programming-async\database\database\obj\Debug\net6.0-windows\database.csproj.CopyComplete
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\database.exe
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\database.deps.json
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\database.runtimeconfig.json
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\database.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\database.pdb
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\database-week9-main\database\database\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\database.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\database.Form1.resources
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\database.csproj.GenerateResource.cache
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\database.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\database.AssemblyInfo.cs
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\database.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\database.csproj.CopyComplete
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\database.dll
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\refint\database.dll
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\database.pdb
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\database.genruntimeconfig.cache
+C:\Users\User\Desktop\database-week9-main\database\database\obj\Debug\net6.0-windows\ref\database.dll

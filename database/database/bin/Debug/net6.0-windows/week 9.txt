@@ -1,0 +1,76 @@
+https://www.youtube.com/watch?v=_8Dk7bNegkU&t=3s
+
+
+1.make data base and add same name 
+
+2.make windows forms and call her Student list
+
+3.make three lable and text box and button (make forms)
+
+4.add (date grid view) go to (dock make it down whe form)
+
+5.I want date grid view to show information in database
+
+6.go to click to load or double click
+and in cod press string connectiondtring="(7)"
+
+7. toolsبدك تعمل من -->(connect data base) 
+بتروح ع وبتنسخ باث تبعها  
+
+8.note in the code
+9. data baseرح تظهر  
+
+10.  data base يعبيها في textbox من data بدي ياه يقرأ button بدي اروح على 
+
+11.أخلي 
+string connectstring = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\"E:\\iu\\برمجه المرئيه\\access\\week9.accdb\"";  
+            OleDbConnection con = new OleDbConnection(connectstring);
+رح يضرب لانه من منطقه تعرفه public اخليه عند 
+
+private string connectstring = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\"E:\\iu\\برمجه المرئيه\\access\\week9.accdb\"";
+        private OleDbConnection con;
+        public Form1()
+        {
+            con = new OleDbConnection(connectstring);
+            InitializeComponent();
+        }
+
+12. رح اعمل للكوماونت برايفت
+private void UpdateStudentsGird()
+        {
+            OleDbCommand command = new OleDbCommand("Select * from Table1", con);
+
+            OleDbDataAdapter da = new OleDbDataAdapter(command);
+
+            //  data base ب applcation عمله يربط 
+            DataTable dt = new DataTable();
+
+            da.Fill(dt);
+            //  commandبالبيانات الي جايه من database  عبيلي 
+
+            dataGridView1.DataSource = dt;
+
+
+13. copy(UpdateStudentsGird()) and put on form load علشان اقدر استخدمه وين ما بدي
+
+14.  UpdateStudentsGird(); put on btn  to check if i add new student
+
+
+15. date grid view --> properties --> autosizecolumnsmod --> fill
+
+16.  in date grid view --> edit columns 
+data base واعمل اضافه للاسماء نفس 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
