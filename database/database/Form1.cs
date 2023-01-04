@@ -7,7 +7,7 @@ namespace database
     public partial class Form1 : Form
     {
 
-       private string connectstring = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\"week9.accdb\"";
+        private string connectstring = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\"week9.accdb\"";
         private OleDbConnection con;
         public Form1()
         {
@@ -36,11 +36,9 @@ namespace database
 
             OleDbDataAdapter da = new OleDbDataAdapter(command);
 
-            //  data base » applcation ⁄„·Â Ì—»ÿ 
             DataTable dt = new DataTable();
 
             da.Fill(dt);
-            //  command»«·»Ì«‰«  «·Ì Ã«ÌÂ „‰ database  ⁄»Ì·Ì 
 
             dataGridView1.DataSource = dt;
 
@@ -51,22 +49,19 @@ namespace database
         private void InsertStudent( string StudentNo,string Studentfirstname,string Studentlastname)
         
         {
-            //command«„— ··  
             string insertCommand = $"Insert Into Table1([StudentNo],[Student first Name],[Student last Name]) " +
-                $"values('{StudentNo}', '{Studentfirstname}', '{Studentlastname}')";//$  ' Ê «÷Ì›  string » ”„Õ·Ì «Œ– 
+                $"values('{StudentNo}', '{Studentfirstname}', '{Studentlastname}')";//$  ' √¶ √á√ñ√≠√ù  string √à√ä√ì√£√ç√°√≠ √á√é√ê 
 
             OleDbCommand command = new OleDbCommand(insertCommand, con);
-            //insertCommand name command
 
             con.Open();
 
             command.ExecuteNonQuery();
-            //to inspent ,uptate,delete
 
             con.Close();
 
         }
-      private void ClearForm()
+        private void ClearForm()
         {
             txtstudentNo.Text = "";
             txtstudentfirstname.Text = "";
